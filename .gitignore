@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+bin/
+obj/
+dist/
+build/
+coverage/
