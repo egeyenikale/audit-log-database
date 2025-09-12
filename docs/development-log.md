@@ -4,3 +4,7 @@
 
 chore: initialize project structure
 
+## 2025-09-12 - Stage 2
+
+feat: add core domain model
+
