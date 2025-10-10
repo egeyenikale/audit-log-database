@@ -18,3 +18,8 @@ export const stage4 = {
   "date": "2025-10-06",
   "message": "feat: implement main workflow"
 };
+
+export const stage5 = {
+  "date": "2025-10-10",
+  "message": "feat: add public interface"
+};
