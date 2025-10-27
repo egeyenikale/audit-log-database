@@ -28,3 +28,7 @@ test: add automated coverage
 
 docs: add installation and usage documentation
 
+## 2025-10-27 - Stage 8
+
+ci: add build and test workflow
+
