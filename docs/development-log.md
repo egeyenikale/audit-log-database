@@ -32,3 +32,7 @@ docs: add installation and usage documentation
 
 ci: add build and test workflow
 
+## 2025-11-05 - Stage 9
+
+feat: add validation rules for actor tracking
+
